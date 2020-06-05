@@ -6,7 +6,7 @@
       "info-card#button-right",
       "flex-layout.row",
       "shelf",
-      "slider-layout#home",
+      "slider-layout",
       "responsive-layout.desktop#desktop",
       "responsive-layout.mobile#mobile"
     ]
