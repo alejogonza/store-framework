@@ -69,6 +69,9 @@
         ]
     },
     "tab-list.item#home1": {
+        "children": [
+            "rich-text#home1"
+        ],
         "props": {
             "tabId": "majorAppliances",
             "label": "Major Appliances",
