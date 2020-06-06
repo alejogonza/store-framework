@@ -73,9 +73,7 @@
             "rich-text#home1"
         ],
         "props": {
-            "tabId": "majorAppliances",
-            "label": "Major Appliances",
-            "defaultActiveTab": true
+            "tabId": "majorAppliances"
         }
     },
     "tab-content.item#home2": {
