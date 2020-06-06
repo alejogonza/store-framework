@@ -69,11 +69,10 @@
         ]
     },
     "tab-list.item#home1": {
-        "children": [
-            "rich-text#home1"
-        ],
         "props": {
-            "tabId": "majorAppliances"
+            "tabId": "majorAppliances",
+            "label": "Sobre",
+            "defaultActiveTab": true
         }
     },
     "tab-content.item#home2": {
